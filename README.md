@@ -1,4 +1,4 @@
-# QueryNexus:AI co-pilot hub for Instant Document Intelligence
+# QueryNexus: AI co-pilot hub for Instant Document Intelligence
 
 **QueryNexus** is an **AI-powered document intelligence platform** that brings together the strengths of **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Machine Learning (ML)** to revolutionize the way people interact with their personal and professional records. Instead of manually browsing through scattered files, **PDFs**, scanned notes, or images, users can simply ask questions in natural language, and the platform intelligently **retrieves, interprets, and summarizes** the most relevant information.
 
