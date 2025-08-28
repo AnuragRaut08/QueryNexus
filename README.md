@@ -6,7 +6,6 @@ At its foundation, QueryNexus leverages advanced **OCR** and **NLP pipelines** t
 
 A defining strength of QueryNexus is its **RAG-driven retrieval mechanism**, which combines **semantic search** with **generative AI**. This ensures that answers are not only accurate but also grounded in the original documents, with clear **source references**. The platform further supports **multi-file retrieval**, **custom tagging**, **version control**, and **audit trails**, giving users both flexibility and reliability when working with critical data.
 
-
 Through **continuous learning** and **indexing**, QueryNexus evolves with every document upload, adapting to user needs and expanding its **knowledge base**. By uniting precision, accessibility, and intelligent automation, it transforms static records into dynamic, **searchable knowledge hubs**. Ultimately, QueryNexus empowers students, professionals, and organizations to **save time, reduce inefficiencies, and make more informed decisions** — bridging the gap between **raw documents** and **actionable insights**.
 
 
