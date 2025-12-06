@@ -1,0 +1,78 @@
+# -------------------------
+# Python general
+# -------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# -------------------------
+# Virtual environments
+# -------------------------
+.env
+.env/
+.venv/
+venv/
+ENV/
+cleanenv/
+
+# -------------------------
+# IDE / Editor files
+# -------------------------
+.idea/
+.vscode/
+*.swp
+
+# -------------------------
+# OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Chroma / Embeddings / Vector DB
+# -------------------------
+chroma/
+chroma_db/
+.chroma/
+data/vectors/
+data/db/
+*.sqlite3
+
+# -------------------------
+# Streamlit
+# -------------------------
+.streamlit/
+.streamlit-cache/
+.streamlit_cache/
+
+# -------------------------
+# Logs & cache
+# -------------------------
+*.log
+.cache/
+.pytest_cache/
+.cache/
+tmp/
+temp/
+
+# -------------------------
+# Ollama / Models
+# -------------------------
+models/
+*.gguf
+*.bin
+
+# -------------------------
+# Coverage files
+# -------------------------
+.coverage
+htmlcov/
+coverage.xml
