@@ -2,8 +2,6 @@
 
 A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain. This project includes both a Jupyter notebook for experimentation and a Streamlit web interface for easy interaction.
 
-[![Python Tests](https://github.com/tonykipkemboi/ollama_pdf_rag/actions/workflows/tests.yml/badge.svg)](https://github.com/tonykipkemboi/ollama_pdf_rag/actions/workflows/tests.yml)
-
 ## Project Structure
 ```
 ollama_pdf_rag/
@@ -30,10 +28,6 @@ ollama_pdf_rag/
 └── run.py                   # Application runner
 ```
 
-## 📺 Video Tutorial
-<a href="https://youtu.be/ztBJqzBU5kc">
-  <img src="https://img.youtube.com/vi/ztBJqzBU5kc/hqdefault.jpg" alt="Watch the video" width="100%">
-</a>
 
 ## ✨ Features
 
@@ -58,8 +52,8 @@ ollama_pdf_rag/
 
 2. **Clone Repository**
    ```bash
-   git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
-   cd ollama_pdf_rag
+   git clone https://github.com/AnuragRaut08/QueryNexus.git
+   cd QueryNexus
    ```
 
 3. **Set Up Environment**
@@ -191,10 +185,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tonykipkemboi/ollama_pdf_rag&type=Date)](https://star-history.com/#tonykipkemboi/ollama_pdf_rag&Date)
-
-Built with ❤️ by [Tony Kipkemboi!](https://tonykipkemboi.com)
-
-Follow me on [X](https://x.com/tonykipkemboi) | [LinkedIn](https://www.linkedin.com/in/tonykipkemboi/) | [YouTube](https://www.youtube.com/@tonykipkemboi) | [GitHub](https://github.com/tonykipkemboi)
