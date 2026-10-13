@@ -21,7 +21,7 @@ def test_init(processor):
     assert processor.chunk_overlap == 100
 
 def test_init_custom_params():
-    """Test initialization with custom parameters."""
+    """Test the initialization with custom parameters."""
     processor = DocumentProcessor(chunk_size=1000, chunk_overlap=50)
     assert processor.chunk_size == 1000
     assert processor.chunk_overlap == 50
